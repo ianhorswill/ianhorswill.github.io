@@ -2,11 +2,15 @@ Logic programming resources for game devs
 ===========
 This is a page of resources for the various tools discussed in Rob Zubek and Ian Horswill's GDC 2023 AI Summit talk.
 
+Interactive demos:
+**[MicroCoG](https://github.com/ianhorswill/MicroCoG)** can see an interactive demo of the *City of Gangsters* social inference system running against a CoG game save file.
+**[Imaginarium](https://github.com/ianhorswill/Imaginarium)**: download the release, run it, hit escape to go to the main menu, and then choose one of the example generators and press one of the buttons at the top of the screen.  See the *Imaginarium* tutorial for more info.
+
 Repos for different AI tools:
 - **[TELL](https://github.com/ianhorswill/TELL)**: Typed, Embedded Logic Language  
   This lets you do simple logic programming tasks inside C# code, and mix-and-match LP and C#.  It's a limited version of
   logic programming; it doesn't support Prolog's matching of complex terms (Prolog's data structures), or the cut (!) operation.
-  Used in an unannounced SomaSim project.
+  Used in an unannounced SomaSim project.  See the TELL tutorial for more info.
 - **[TED](https://github.com/ianhorswill/TED)**: Typed, Embedded DATALOG  
   This is like TELL, except it executes bottom-up instead of top-down.  Note that it is a not a proper version of datalog.
   It doesn't support recursion and its semantics are somewhat Prolog-like.  It's being used for large-scale city simulation
