@@ -2,6 +2,10 @@ Logic programming resources for game devs
 ===========
 This is a page of resources for the various tools discussed in Rob Zubek and Ian Horswill's GDC 2023 AI Summit talk.
 
+GDC 2023 talk: Logic Programming in Commercial Games
+- Slides: [pptz](Talks/Logic%20programming%20talk.pptx) [pdf](Talks/Logic%20programming%20talk.pdf)
+- Join us on Discord: [Logic programming for game devs](https://discord.gg/rnBCEcgN) server
+
 Interactive demos:
 - **[MicroCoG](https://github.com/ianhorswill/MicroCoG)** can see an interactive demo of the *City of Gangsters* social
 inference system running against a CoG game save file.
