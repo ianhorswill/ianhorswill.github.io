@@ -3,8 +3,9 @@ Logic programming resources for game devs
 This is a page of resources for the various tools discussed in Rob Zubek and Ian Horswill's GDC 2023 AI Summit talk.
 
 Interactive demos:
-**[MicroCoG](https://github.com/ianhorswill/MicroCoG)** can see an interactive demo of the *City of Gangsters* social inference system running against a CoG game save file.
-**[Imaginarium](https://github.com/ianhorswill/Imaginarium)**: download the release, run it, hit escape to go to the main menu, and then choose one of the example generators and press one of the buttons at the top of the screen.  See the *Imaginarium* tutorial for more info.
+- **[MicroCoG](https://github.com/ianhorswill/MicroCoG)** can see an interactive demo of the *City of Gangsters* social
+inference system running against a CoG game save file.
+- **[Imaginarium](https://github.com/ianhorswill/Imaginarium)**: download the release, run it, hit escape to go to the main menu, and then choose one of the example generators and press one of the buttons at the top of the screen.  See the *Imaginarium* tutorial for more info.
 
 Repos for different AI tools:
 - **[TELL](https://github.com/ianhorswill/TELL)**: Typed, Embedded Logic Language  
