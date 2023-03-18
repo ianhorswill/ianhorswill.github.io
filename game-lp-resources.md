@@ -31,7 +31,7 @@ Repos for different AI tools:
 - **[Step](https://github.com/ianhorswill/Step)**: Simple Text Planner, a logic programming language for text generation  
   This is used in the upcoming PCG app from Machine Age Productions for the tabletop RPG, *[iHunt: Killing Monsters in the
   Gig Economy](https://ihunt.fun/)* by Olivia Hill and Filamena Young.  The Step repo is the base interpreter.  For
-  an interactive command line and debugger, use [StepRepl](https://github.com/ianhorswill/StepRepl).  If you use it, install the StepHighlighter extension in VS Code.  For more information see the [Step tutorial](Tutorials/Step/index.html)
+  an interactive command line and debugger, use [StepRepl](https://github.com/ianhorswill/StepRepl).  If you use it, install the StepHighlighter extension in VS Code.  For more information see the [Step tutorial](Tutorials/Step)
 - **[CatSAT](https://github.com/ianhorswill/CatSAT)**: Randomized SAT/SMT Solver   
   This is a randomized constraint solver used for character PCG in SomaSim's *City of Gangsters*.  It's also the underlying
   constraint solver used by *Imaginarium*.
