@@ -15,7 +15,7 @@ Repos for different AI tools:
 - **[TELL](https://github.com/ianhorswill/TELL)**: Typed, Embedded Logic Language  
   This lets you do simple logic programming tasks inside C# code, and mix-and-match LP and C#.  It's a limited version of
   logic programming; it doesn't support Prolog's matching of complex terms (Prolog's data structures), or the cut (!) operation.
-  Used in an unannounced SomaSim project.  See the TELL tutorial for more info.
+  Used in an unannounced SomaSim project.  See the [TELL tutorial](Tutorials/TELL-tutorial.pdf) for more info.
 - **[TED](https://github.com/ianhorswill/TED)**: Typed, Embedded DATALOG  
   This is like TELL, except it executes bottom-up instead of top-down.  Note that it is a not a proper version of datalog.
   It doesn't support recursion and its semantics are somewhat Prolog-like.  It's being used for large-scale city simulation
@@ -27,13 +27,13 @@ Repos for different AI tools:
 - **[Step](https://github.com/ianhorswill/Step)**: Simple Text Planner, a logic programming language for text generation  
   This is used in the upcoming PCG app from Machine Age Productions for the tabletop RPG, *[iHunt: Killing Monsters in the
   Gig Economy](https://ihunt.fun/)* by Olivia Hill and Filamena Young.  The Step repo is the base interpreter.  For
-  an interactive command line and debugger, use [StepRepl](https://github.com/ianhorswill/StepRepl).  If you use it, install the StepHighlighter extension in VS Code.
+  an interactive command line and debugger, use [StepRepl](https://github.com/ianhorswill/StepRepl).  If you use it, install the StepHighlighter extension in VS Code.  For more information see the [Step tutorial](Tutorials/Step/index.html)
 - **[CatSAT](https://github.com/ianhorswill/CatSAT)**: Randomized SAT/SMT Solver   
   This is a randomized constraint solver used for character PCG in SomaSim's *City of Gangsters*.  It's also the underlying
   constraint solver used by *Imaginarium*.
 - **[Imaginarium](https://github.com/ianhorswill/Imaginarium)**: Casual constraint-based PCG for table-top RPG players  
   This is a system that lets GMs and players create generators for random game artifacts using a simplified English-like
-  syntax.  This is the interactive app.  If you want to use the raw system inside your own game, use
+  syntax.  See the [Imaginarium tutorial](Tutorials/Imaginarium-tutorial.pdf) for more information.  This is the interactive app.  If you want to use the raw system inside your own game, use
   [ImaginariumCore](https://github.com/ianhorswill/ImaginariumCore).  If you use it, install the Imaginarium extension in
   VS Code.
 - **[BotL](https://github.com/ianhorswill/BotL)**: A highly optimized logic programming engine for games  
