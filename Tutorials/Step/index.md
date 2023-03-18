@@ -1,9 +1,3 @@
----
-layout: page
-title: Step tutorial
-permalink: /Tutorials/Step/index.html/
----
-
 This is a tutorial on how to use Step (Simple TExt Planner) for text PCG.
 It's used in a course for both programmers and non-programmers, so it doesn't assume prior programming knowledge.
 It's lengthy because it covers a lot of ground, from hello world to Definite Clause Grammars and HTN planning.  Even so,

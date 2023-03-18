@@ -1,5 +1,9 @@
-Logic programming resources for game devs
-===========
+---
+layout: page
+title: Logic programming resources for game devs
+permalink: /game-lp-resources/
+---
+
 This is a page of resources for the various tools discussed in Rob Zubek and Ian Horswill's GDC 2023 AI Summit talk.
 
 GDC 2023 talk: Logic Programming in Commercial Games
