@@ -13,7 +13,7 @@ GDC 2023 talk: Logic Programming in Commercial Games
 Interactive demos:
 - **[MicroCoG](https://github.com/ianhorswill/MicroCoG)** can see an interactive demo of the *City of Gangsters* social
 inference system running against a CoG game save file.
-- **[Imaginarium](https://github.com/ianhorswill/Imaginarium)**: download the release, run it, hit escape to go to the main menu, and then choose one of the example generators and press one of the buttons at the top of the screen.  See the *Imaginarium* tutorial for more info.
+- **[Imaginarium](https://github.com/ianhorswill/Imaginarium)**: download the release, run it, hit escape to go to the main menu, and then choose one of the example generators and press one of the buttons at the top of the screen.  See the [Imaginarium tutorial](Tutorials/Imaginarium-tutorial.pdf) for more info.
 
 Repos for different AI tools:
 - **[TELL](https://github.com/ianhorswill/TELL)**: Typed, Embedded Logic Language  
