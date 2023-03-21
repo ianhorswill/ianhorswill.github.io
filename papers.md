@@ -8,7 +8,7 @@ permalink: /papers/
 
 ## 2022
 - Horswill, Ian.  *[Step: A Highly Expressive Text Generation Language](Papers/AIIDE-22-Step.pdf)*. Proceedings of AIIDE-22, Pomona, CA.
-- Horswill, Ian.  *[Retcon: A Least-Commitment Story-World System](Papers/EXAG%2022-Retcon.pdf)*. Proceedings of EXAG-22, Pomona, CA.
+- Horswill, Ian.  *[Retcon: A Least-Commitment Story-World System](Papers/EXAG-22-Retcon.pdf)*. Proceedings of EXAG-22, Pomona, CA.
 
 ## 2021
 - Zubek, R., Horswill I., Robison, H., and Viglione, M. *[Social Modeling via Logic Programming in City of Gangsters](Papers/AIIDE-21-CoG.pdf)*.  Proceedings of AIIDE-21.
