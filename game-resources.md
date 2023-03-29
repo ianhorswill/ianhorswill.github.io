@@ -8,7 +8,7 @@ This is a page of resources for the various tools discussed in Rob Zubek and Ian
 
 GDC 2023 talk: Logic Programming in Commercial Games
 - Slides: [pptx](Talks/Logic-programming-talk.pptx) [pdf](Talks/Logic-programming-talk.pdf)
-- Join us on Discord: [Logic programming for game devs](https://discord.gg/rnBCEcgN) server
+- Join us on Discord: [Logic programming for game devs](https://discord.gg/FBMvgP38Xx) server
 
 Interactive demos:
 - **[MicroCoG](https://github.com/ianhorswill/MicroCoG)** can see an interactive demo of the *City of Gangsters* social
